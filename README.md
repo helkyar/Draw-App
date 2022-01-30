@@ -7,4 +7,6 @@ Deploy into Apache server (like the one provided by xampp) and run the file thro
 # Known issues
 Fixed document name, has to be dynamic.
 
+# Design
+
 # Next steps
